@@ -1,0 +1,3 @@
+/Users/metaslowly/Desktop/CP_S/CW2/code/cw2/build/CMakeFiles/NQueens.dir
+/Users/metaslowly/Desktop/CP_S/CW2/code/cw2/build/CMakeFiles/edit_cache.dir
+/Users/metaslowly/Desktop/CP_S/CW2/code/cw2/build/CMakeFiles/rebuild_cache.dir
